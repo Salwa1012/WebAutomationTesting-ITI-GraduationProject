@@ -5,6 +5,7 @@ This project is a Selenium-based web automation framework built with Java, using
 📋 Features
 
 This automation framework includes comprehensive test scenarios for the following actions:
+
 Registration
 Login
 Logout
