@@ -40,8 +40,11 @@ Apache POI: Data-driven testing (DDT) with Excel files
 📂 Project Structure
 
 src/main/java: Contains the core code, including page object classes.
+
 src/test/java: Contains the test classes, written with TestNG and Cucumber.
+
 src/test/resources: Contains Cucumber feature files.
+
 data: Holds test data for data-driven testing using Excel.
 
 
