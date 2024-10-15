@@ -7,20 +7,35 @@ This project is a Selenium-based web automation framework built with Java, using
 This automation framework includes comprehensive test scenarios for the following actions:
 
 Registration
+
 Login
+
 Logout
+
 Search for a Product
+
 Add Product to Shopping Cart
+
 Update Product Quantity in Cart
+
 Checkout
+
 View Order History
+
 Return Order
+
 Add Product to Wish List
+
 Add Product to Compare
+
 Add Product Review
+
 Gift Certificate Purchase
+
 Change Currency
+
 Change Password
+
 Use Contact Us
 
 
